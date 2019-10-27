@@ -2,3 +2,21 @@
 17:41 
 Trabalhamos na modelagem do banco de dados, Guilherme está construindo o banco de dados depois de ter modelado. 
 Pedro está testando os sensores gerais. Matheus e Braian estão terminando o app e Milena está criando a apresentação.
+15:33
+Nosso produto pretende ter as funcionalidades de sensor de umidade (g/kg), autofalante, microfone, sensor de ruído sonoro (dB – decibéis), sensor de temperatura corporal, medidor de pressão arterial, medidor de glicose (normal: 99mg/dL), rede de amigos.
+15:30
+Agora nossa equipe trabalha na criação do app, Pedro e Braian em arduíno + bluetooth com android. Matheus trabalha na criação do app em Flutter com auxílio da Milena em design e algumas funcionalidades chave e Guilherme na documentação em phyton. 
+14:21
+A *validação do problema* foi baseada em diversos estudos de BEZERRA, LUZ, ARAÚJO (BEZERRA, Sandra Marina Gonçalves; LUZ, Maria Helena Barros Araújo; ARAÚJO, Telma Maria Evangelista. Prevalência de Úlcera por pressão em pacientes acamados no domicílio. 61° congresso brasileiro de enfermagem. Fortaleza, Dezembro 2009.Disponível em: < http://www.abeneventos.com.br> acesso em 14 de abril de 2010.), Raposo e Lopes (RAPOSO, Ana Cláudia; LÓPEZ, Ramón F. Alonso. Efeitos da imobilização prolongada e atividade física. Revista Digital, ano 8, n. 50, Buenos Aires, 2002. Disponível em: < http:// www.efdeportes.com/efd50/efeitos.htm>. Acesso em 25 de maio de 2010), Nunes e Portela (NUNES   Lilia   Maria;   PORTELLA,   Marilene   Rodrigues. O   IdosoFragilizado   no domicílio: A problemática encontrada na atenção básica em saúde. Boletim da saúde, v. 17, n.2, p. 109-12,  Porto Alegre, Jul/dez. 2003), Figueiredo (FIGUEIREDO,  Maria  do  livramento. et al. Diagnósticos  de  enfermagem  do  idoso acamado no domicilio.  Revista brasileira de enfermagem, v. 61, n. 4, p.464-69. Brasília, 2008.) e Vojvodic (VOJVODIC, Carla. Síndrome de Imobilidade.São Paulo,julho2004.) resumidos na monografia de HUGO LEONARDO ANTUNES FONSECA (https://www.nescon.medicina.ufmg.br/biblioteca/imagem/2396.pdf) que diz que os principais problemas ocorrem nos sistemas osteomuscular, cardiovascular, digestivo, urinário e respiratório. 
+O cardiovascular está tendencioso a aumentar a pressão arterial.
+O digestório trata da ausência de dentes e, consequentemente, a perda de apetite, constipação intestinal e formação de ficalona. 
+O sistema urinário fica sujeito a incontinência urinária e retenção urinária.
+No sistema respiratório as alterações são decorrentes de doenças já existentes como a Doença Pulmonar Obstrutiva Crônica (DPOC) que é uma das mais frequentes (FIGUEIREDO,et al,2008). Esta doença provoca obstrução e consequente acúmulo de secreções brônquicas. O CMI (2010) aponta também algumas complicações como: “fraqueza da musculatura diafragmática e intercostal, dificuldade em eliminar secreção pela posição, tosse menos eficaz, diminuição da função ciliar resultando em acúmulo de secreção predispondo a atelectasias e infecções respiratórias”.
+13:40
+Principais problemas enfrentados pelos jovens da terceira idade de acordo com a monografia de Hugo Leonardo Antunes Fonseca para UFMG
+Os sistemas mais afetados dos idosos são osteomuscular, cardiovascular, digestivo, urinário e respiratório. 
+O cardiovascular está tendencioso a aumentar a pressão arterial.
+O digestório trata da ausência de dentes e, consequentemente, a perda de apetite, constipação intestinal e formação de ficalona. 
+O sistema urinário fica sujeito a incontinência urinária e retenção urinária.
+No sistema respiratório as alterações são decorrentes de doenças já existentes como a Doença Pulmonar Obstrutiva Crônica (DPOC) que é uma das mais frequentes (FIGUEIREDO,et al,2008). Esta doença provoca obstrução e consequente acúmulo de secreções brônquicas. O CMI (2010) aponta também algumas complicações como: “fraqueza da musculatura diafragmática e intercostal, dificuldade em eliminar secreção pela posição, tosse menos eficaz, diminuição da função ciliar resultando em acúmulo de secreção predispondo a atelectasias e infecções respiratórias”.
+COMPLETO EM: https://www.nescon.medicina.ufmg.br/biblioteca/imagem/2396.pdf
